@@ -1,1 +1,1 @@
-# Recogniying-digits-with-opencv-and-python
+# Recognising-digits-with-opencv-and-python
